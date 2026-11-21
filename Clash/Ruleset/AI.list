@@ -13,9 +13,33 @@ DOMAIN-SUFFIX,sora.com
 
 # ==================== Anthropic Claude ====================
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,anthropic.ai
+DOMAIN-SUFFIX,anthropic.dev
+DOMAIN-SUFFIX,anthropic.team
+DOMAIN-SUFFIX,ant.dev
+DOMAIN-SUFFIX,antspace.dev
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claude.app
+DOMAIN-SUFFIX,claude.new
+DOMAIN-SUFFIX,claude.design
+DOMAIN-SUFFIX,claude.site
+DOMAIN-SUFFIX,claude.dev
+DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,claudemcpcontent.com
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,chatbotclaude.com
+DOMAIN-SUFFIX,claudeacademy.com
+DOMAIN-SUFFIX,claudepages.dev
+DOMAIN-SUFFIX,claudestudio.com
+DOMAIN-SUFFIX,claudestudio.ai
+DOMAIN-SUFFIX,claude.fedstart.com
+DOMAIN-SUFFIX,claude.findahelpline.com
+DOMAIN-SUFFIX,gmailmcp.googleapis.com
+DOMAIN-SUFFIX,drivemcp.googleapis.com
+DOMAIN-SUFFIX,calendarmcp.googleapis.com
+DOMAIN-SUFFIX,fcmtoken.googleapis.com
 
 # ==================== Microsoft Copilot & Azure ====================
 DOMAIN,api.githubcopilot.com
@@ -48,10 +72,6 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com

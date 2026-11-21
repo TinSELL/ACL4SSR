@@ -36,10 +36,6 @@ DOMAIN-SUFFIX,claudestudio.com
 DOMAIN-SUFFIX,claudestudio.ai
 DOMAIN-SUFFIX,claude.fedstart.com
 DOMAIN-SUFFIX,claude.findahelpline.com
-DOMAIN-SUFFIX,gmailmcp.googleapis.com
-DOMAIN-SUFFIX,drivemcp.googleapis.com
-DOMAIN-SUFFIX,calendarmcp.googleapis.com
-DOMAIN-SUFFIX,fcmtoken.googleapis.com
 
 # ==================== Microsoft Copilot & Azure ====================
 DOMAIN,api.githubcopilot.com
